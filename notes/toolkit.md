@@ -5,7 +5,7 @@
 | Claude (main) | ✅ | |
 | Google AI Studio / Gemini API | ⬜ key in `.env` | Free tier may train on inputs — no private HDL data |
 | OpenRouter `:free` models | ⬜ key in `.env` | ~50 req/day; models rotate — keep 2–3 fallbacks |
-| Ollama (home server / PC) | ⬜ installed | Model pulled: |
+| Ollama (home server / PC) | ⬜ installed | Model pulled: llama 3.2:3b |
 | Gemini CLI / Antigravity CLI | ⬜ | Second coding agent to compare with Claude Code |
 | NotebookLM | ⬜ | Audio overviews for commutes |
 | Anthropic Academy (Skilljar) | ⬜ account | |
