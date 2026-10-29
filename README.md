@@ -31,8 +31,8 @@ A 12-month, $0 self-directed course in practical AI engineering — from power u
 
 ### Phase 0 — Week 0: Setup
 - [x] GitHub account + this repo
-- [ ] Folder structure + templates (this commit)
-- [ ] AI Tutor project in Claude (paste `prompts/tutor/01-master-tutor.md` into instructions)
+- [X] Folder structure + templates (this commit)
+- [X] AI Tutor project in Claude (paste `prompts/tutor/01-master-tutor.md` into instructions)
 - [ ] Backup tutor in Google AI Studio
 - [ ] Move 10 best past prompts into `prompts/`
 - [ ] Install toolkit: VS Code, Git, Python 3.12+, Node LTS, Ollama; get AI Studio + OpenRouter keys into `.env`

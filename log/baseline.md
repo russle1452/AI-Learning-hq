@@ -18,8 +18,18 @@ Re-score at Week 0, Month 3, 6, 9, 12. Move next phase's time toward the two low
 | Staying current | Names last month's key releases and has tried one | 5 |1 | | | | |
 
 ## Week 0 notes
-<!-- Why did you give each score? One line each is enough. --> I still have a lot of practical's to learn and need more time before I am confident
-
+<!-- Why did you give each score? One line each is enough. --> 
+I have spent a long time developing well constructed prompts as evidenced by this course that has been created by 1 prompt and a series of answers
+I still have a rudimentary knowledge of coding
+I can troubleshoot decently well but not knowing how to read code hinders that
+I have been able to add API keys and integrate them into a few apps so far but I am not yet skilled with using API's
+I have been able to have AI build a few tools but they are still rudimentary
+I have only watched different models utilize Agents. I haven't been active in using them
+I have been fairly good with using AI for retrieval assuming this is about research
+I have been fairly good at catching errors before the happen
+This is my first time using or creating a local model
+I am still new with implementing security to my builds
+I am admittedly behind the curve and need to learn a lot
 ## Checkpoint checklist (each phase end)
 - [ ] Re-score above; run `prompts/tutor/07-checkpoint-interview.md`
 - [ ] Capstone shipped with a write-up (if not, next phase starts by finishing it)
